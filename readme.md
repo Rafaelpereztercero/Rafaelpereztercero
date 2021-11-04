@@ -15,7 +15,7 @@
 - 📄 Know about my experiences I have experience working on TUI as an IT and also developing my own projets ( website, discord bots, etc..)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafa27254691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafael perez tercero" height="30" width="40" /></a>
+<a href="https://twitter.com/rafa27254691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafa27254691" height="30" width="40" /></a>
 <a href="https://fb.com/rafael perez tercero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafael perez tercero" height="30" width="40" /></a>
 <a href="https://instagram.com/perezrafa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perezrafa_" height="30" width="40" /></a>
 <a href="https://discord.gg/! $Rafa380#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! $Rafa380#0001" height="30" width="40" /></a>
