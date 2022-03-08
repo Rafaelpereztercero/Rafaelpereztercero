@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Pérez Tercero</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate frontend and backend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelpereztercero&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelpereztercero" /> </p>
 
