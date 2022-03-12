@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelpereztercero" alt="rafaelpereztercero" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Perezrafa_03
-" target="blank"><img src="https://img.shields.io/twitter/follow/rafael perez tercero?logo=twitter&style=for-the-badge" alt="rafael perez tercero" /></a> </p>
-
 - 🌱 I’m currently learning **FPS DAW**
 
 - 📫 How to reach me **rperezter@gmail.com**
