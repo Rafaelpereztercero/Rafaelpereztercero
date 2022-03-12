@@ -15,7 +15,7 @@
 - 📄 Know about my experiences I have experience working on TUI as an IT and also developing my own projets ( website, discord bots,security etc..)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafa27254691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rafa27254691" height="30" width="40" /></a>
+<a href="https://twitter.com/Perezrafa_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rafa27254691" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rafa.pereztercero.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafael perez tercero" height="30" width="40" /></a>
 <a href="https://instagram.com/perezrafa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perezrafa_" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/rafael-p%C3%A9rez-tercero-824188234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeff43" height="30" width="40" /></a>
