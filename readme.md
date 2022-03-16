@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rperezter@gmail.com**
 
-- 📄 Know about my experiences Im currently 18 years old and i have experience working on TUI as an IT and also developing my own projets ( website, discord bots,security etc..)
+- 📄 Know about my experiences Im currently 18 years old and I have experience working on TUI as an IT and also developing my own projets ( website, discord bots,security etc..)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Perezrafa_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rafa27254691" height="30" width="40" /></a>
